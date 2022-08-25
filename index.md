@@ -39,7 +39,7 @@
                 </a>
 
 
-                <a class="navitem active" href="landing_page.html">Home</a>
+                <a class="navitem active" href="index.md">Home</a>
                 <a class="navitem" href="our_promise.html">Our Promise</a>
                 <a class="navitem" href="about_us.html">About Us</a>
                 <a class="navitem" href="spotlight.html">Spotlight</a>
@@ -55,26 +55,26 @@
         <div class="flexcontainer">
             <div class="brandColumn" id="left">
                 <a href="https://girlfriend.com/" target=”_blank”>
-                    <img class="mainbrandimage" src="https://cdn-yotpo-images-production.yotpo.com/instagram/70/17957012323797370/standard_resolution.jpg"/>
+                    <img class="mainbrandimage" src="https://cdn-yotpo-images-production.yotpo.com/instagram/70/17957012323797370/standard_resolution.jpg"/></a>
                 <span><img class="logoimage" src="https://girlfriend-co.cdn.prismic.io/girlfriend-co/0b8c3c53-db2c-4107-a20a-0d6875c61d29_wordmark.svg"></span>
                     <span>Girlfriend collective is an affordable and size-inclusive ethical sportwear brand. Their packaging is 100% recycled and recyclable, and
                         their clothing is made from recycled materials like post-consumer water bottles, fishing nets retrieved from the seas, fabric scraps, and other waste. </span>
-                        </a>
+                        
 
                 <h2>Sustainable.</h2>
 
                 <a href="https://www.wildfang.com/" target=”_blank”>
-                     <img class="mainbrandimage" src="https://cdn.shopify.com/s/files/1/0417/7870/8643/products/WF110422_PDPMRKTNG1622_600x.jpg?v=1660050032">
+                     <img class="mainbrandimage" src="https://cdn.shopify.com/s/files/1/0417/7870/8643/products/WF110422_PDPMRKTNG1622_600x.jpg?v=1660050032"></a>
                      <span>
                         <img src="https://cdn.shopify.com/s/files/1/0417/7870/8643/files/Wildfang_Main_BLACK-_1_400x.jpg?v=1600223309">
                         </span>
                     <span>Certified climate netural as of this month August 2022, WILDFANG dedicated to holding
                         the fashion industry accountable for its environmental impact.
                         They're on a mission to rethink gender norms and embrace their masculine, feminine and everything-in between.</span>
-                </a>
+                
                 <h2>Innovative.</h2>
                 <a href="https://loudbodies.com/" target=”_blank”>
-                    <img class="mainbrandimage" src="https://loudbodies.com/wp-content/uploads/2020/07/LOUD-BODIES-INCLUSIVE-ETHICAL-SUSTAINABLE-FASHION-10-1536x1024.jpg">
+                    <img class="mainbrandimage" src="https://loudbodies.com/wp-content/uploads/2020/07/LOUD-BODIES-INCLUSIVE-ETHICAL-SUSTAINABLE-FASHION-10-1536x1024.jpg"></a>
                     <span><img src="https://loudbodies.com/wp-content/uploads/2020/09/LOGO-LOUD-BODIES-DARK.svg">
                     </span>
                     <span>LOUDBODIES is a clothing brand founded by Patricia Luiza Blaj, 
@@ -83,13 +83,13 @@
                         They say: "REAL STYLE HAS NO SIZE
                         And EVERYbody deserves stylish and comfortable clothes." After realising the lack of 
                     variety in sizes on the highstreet in shopping malls, she set about making serious change.</span>
-                </a>
+                
 
             </div>
             <div class="brandColumn" id="center">
                 <div class="hoverdiv">
                     <a href="https://officialrebrand.shop/" target=”_blank”>
-                    <img class="mainbrandimage" src="https://video-images.vice.com/articles/5bec74c68cf0670006f21466/lede/1542224070291-MADGExOR_SVENGUTJAHR_analog_006.jpeg?crop=1xw%3A0.75xh%3B0xw%2C0xh&resize=650%3A*&output-quality=55">
+                    <img class="mainbrandimage" src="https://video-images.vice.com/articles/5bec74c68cf0670006f21466/lede/1542224070291-MADGExOR_SVENGUTJAHR_analog_006.jpeg?crop=1xw%3A0.75xh%3B0xw%2C0xh&resize=650%3A*&output-quality=55"></a>
                     <span><img src="https://cdn.shopify.com/s/files/1/0016/4426/5584/files/or_newlogo_2_1200x1200.png?v=1584651497"></span>
                     <span style="margin-bottom: 8px">Official Rebrand revives discarded clothing, breathing new life into what was once unwanted. 
                         Through painting and other alterations, desinger artist MI Leggett's “rebranding” process proposes 
@@ -97,14 +97,14 @@
                         OR?!’s transformative process celebrates the fluidity of identity, 
                         dissociating garments from gendered categories, reintroducing them without 
                         arbitrary social constraints.</span>
-                    </a>
+                    
                    <div class="brandColumn">
                 <button class="button-54" role="button" onclick="underConstruction()">Switch. It. Up.</button>
                 </div> 
             </div>
                 
                 <a href="https://i-and-me.com/" target=”_blank”>
-                    <img class="mainbrandimage" src="https://s3-eu-west-2.amazonaws.com/media.i-and-me.com/wp-content/uploads/2019/05/190502-NR-MAGAZINE-S12-048-min.jpg">
+                    <img class="mainbrandimage" src="https://s3-eu-west-2.amazonaws.com/media.i-and-me.com/wp-content/uploads/2019/05/190502-NR-MAGAZINE-S12-048-min.jpg"></a>
                     <span>
                         <img src="https://s3-eu-west-2.amazonaws.com/media.i-and-me.com/wp-content/uploads/2016/01/header-logo.png">
                     </span><span>Founded in response to damaging consumer habits, Creative Director Jessica Gebhart 
@@ -114,10 +114,10 @@
                         I AND ME collections offer contemporary wardrobe solutions that reflect the moment rather than the season.
                         The design process is gender neutral and will always be about fabric and style before ‘his and/or hers’.
                         </span>
-                </a>
+                
                 <h2>Ethical.</h2>
                 <a href="https://suayla.com/" target=”_blank”>
-                 <img class="mainbrandimage" src="https://cdn.shopify.com/s/files/1/0050/2474/3524/products/Selects__495_800x.jpg?v=1654706373">
+                 <img class="mainbrandimage" src="https://cdn.shopify.com/s/files/1/0050/2474/3524/products/Selects__495_800x.jpg?v=1654706373"></a>
                  <span><img src="http://cdn.shopify.com/s/files/1/0050/2474/3524/files/Untitled_design_11_249c5e12-0643-4b8b-819e-d7d794eee9bd.png?v=1640681777"></span>
                  <span>As the global community demands change from corporations, Suay Sew Shop's dedication to design, 
                     coupled with a drive for activism, is putting reclaimed products at the center of a social, 
@@ -125,13 +125,13 @@
                     production shop founded in 2017 by CEO and Lead Designer, Lindsay Rose Medoff. 
                     Pioneering the clean up economy, Suay products are created from a combination of post-consumer waste, 
                     deadstock and domestically, organically grown fibers.</span>
-                </a>
+                
                 <h2>Hand picked.</h2>
             </div>
             <div class="brandColumn" id="right">
                 
                 <a href="https://www.sezane.com/us" target=”_blank”>
-                    <img class="mainbrandimage" src="https://media.sezane.com/image/upload/c_crop,fl_progressive:semi,h_0.91,q_auto:best,w_0.85,x_0.03,y_0/c_scale,w_625/uyca7ngmabi6feqlhirn.jpg">
+                    <img class="mainbrandimage" src="https://media.sezane.com/image/upload/c_crop,fl_progressive:semi,h_0.91,q_auto:best,w_0.85,x_0.03,y_0/c_scale,w_625/uyca7ngmabi6feqlhirn.jpg"></a>
                     <span>
                         <img src="https://www.theindustry.fashion/wp-content/uploads/2021/07/sezane-logo.jpg">
                     </span><span>
@@ -140,10 +140,10 @@
                         To achieve this ideal, they create timeless pieces that will outlive fleeting trends 
                         and suit (almost) every season; creations made from eco-friendly and innovative materials 
                         by people they trust.</span>
-                            </a> 
+                             
                             <h2>Inclusive.</h2>
                 <a href="https://matethelabel.com/" target=”_blank”>
-                    <img class="mainbrandimage" src="https://cdn.shopify.com/s/files/1/0518/6281/products/20220706_MATE_ABatz2159_dd1af515-c97d-4ce1-8088-3ce3b5d6c416_540x.jpg?v=1659978311">
+                    <img class="mainbrandimage" src="https://cdn.shopify.com/s/files/1/0518/6281/products/20220706_MATE_ABatz2159_dd1af515-c97d-4ce1-8088-3ce3b5d6c416_540x.jpg?v=1659978311"></a>
                     <span>
                         <img src="https://cdn.shopify.com/s/files/1/0518/6281/t/262/assets/site-logo_1000x.png?v=103095170406178748561653527274">
                     </span><span>MATE believe that what you wear impacts your wellness, 
@@ -153,9 +153,9 @@
                         and other toxins are kept out of their supply chain and off your body. You won't ever find polyester, 
                         nylon, or polyamide in their products and All their goods are knitted, 
                         cut, sewn, and dyed in LA, often no more than 15 miles from their office.</span>
-                </a>
+                
                 <a href="https://olderbrother.us/" target=”_blank”>
-                    <img class="mainbrandimage" src="https://cdn.shopify.com/s/files/1/0513/8697/files/IMG_0878_1024x1024.jpg?v=1525731253">
+                    <img class="mainbrandimage" src="https://cdn.shopify.com/s/files/1/0513/8697/files/IMG_0878_1024x1024.jpg?v=1525731253"></a>
                     <span><img src="https://cdn.shopify.com/s/files/1/0513/8697/t/8/assets/social-share.png?v=171912519391461278781647891441"></span>
                     <span>Olderbrother believes that there is no place for heavy metals or toxins in our lives so, 
                         true to that, they don’t touch their clothes. Colors spring from hibiscus, sustainable wood bark or 
@@ -167,7 +167,6 @@
                         They make universal garments, equally tailored to fit men, women and people.
 
                         They say: "Self-definition is what guides us personally and we believe it guides our community, too."</span>
-                    </a>
             </div>
         </div>
     </main>

@@ -1,0 +1,365 @@
+a{
+    text-decoration: none;
+}
+
+
+.branding{
+
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    font-size: 1.5em;
+
+}
+@media screen and (max-width: 600px){
+    .branding{
+        font-size: 4vw;
+    }
+}
+
+/* CSS for paragraphs */
+
+.paragraph{
+
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    font-size: 1.5em;
+
+}
+@media screen and (max-width: 600px){
+    .paragraph{
+        font-size: 2vw;
+    }
+}
+/*nav that's responsive for mobiles*/
+.navbar{
+    text-align: center;
+    color:black;
+    font-family: 'Oswald', sans-serif;
+    padding: 20px;
+}
+.navitem{
+    padding-left: 10px;
+    padding-right: 10px;
+    color:black;
+    font-size: 1.5em;
+    text-decoration: none;
+}
+
+
+.navbar a:hover{
+    color: #c3e2ce;
+}
+
+.navbar a.active{
+    color:#c3e2ce
+}
+
+
+
+.menubar{
+    width: 35px;
+    height: 3px;
+    background-color: #81c097;
+    margin: 4px;
+  }
+.menuholder{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+@media screen and (min-width:600px) {
+   .navbar .icon{
+    display: none; 
+}
+}
+@media screen and (max-width: 600px) {
+    .navbar a{display: none;}
+    .navbar a.icon {
+      display: block;
+    }
+  }
+  
+  @media screen and (max-width: 600px) {
+    .navbar.responsive {position: relative;}
+    .navbar.responsive a.icon {
+      position: absolute;
+    }
+    .navbar.responsive a {
+      float: none;
+      display: block;
+      text-align: center;
+    }
+  }
+
+/*navbar ends*/
+
+
+.maintext{
+
+    font-family: 'Oswald', sans-serif;
+    font-size: 0.9em;
+}
+@media screen and (max-width: 600px){
+    .maintext{
+        font-size: 1vw;
+    }
+}
+
+.mainTextBold {
+
+    font-weight: bold;
+}
+
+main{
+    background-color: #eeeeee;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    margin: none;
+    padding-top: 20px;
+    padding-bottom:80px;
+    box-sizing: border-box;
+}
+
+footer {
+    margin: none;
+    padding-top: 20px;
+    padding-bottom:40px;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    background-color: #eeeeee;
+    position: absolute;
+    width: 100%;
+}
+
+
+
+/*gallery flexbox stuff that's really scary*/
+
+.flexcontainer{
+    display: flex;
+    flex-direction: row;
+    max-width: 1400px;
+    gap: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+}
+
+.brandColumn{
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+}
+
+.brandColumn img {
+    width: 100%;
+    max-width: 350px;
+  }
+@media screen and (max-width:600px ){
+    .brandColumn{
+        max-width: 550px;
+    }
+   .brandColumn img a span{
+    max-width:100px;
+   }
+}
+
+  /* CSS for button*/
+.button-54 {
+    font-family: "Oswald", sans-serif;
+    font-size: 20px;
+    letter-spacing: 2px;
+    text-decoration: none;
+    color: #000;
+    cursor: pointer;
+    border: 3px solid;
+    padding: 0.25em 0.5em;
+    box-shadow: 1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px, 5px 5px 0px 0px #81c097;
+    position: relative;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+  }
+  
+  .button-54:active {
+    box-shadow: 0px 0px 0px 0px;
+    top: 5px;
+    left: 5px;
+    position: relative;
+  }
+
+  .button-54:hover{
+    color:#81c097;
+    position: relative;
+  }
+  
+  @media (min-width: 768px) {
+    .button-54 {
+      padding: 0.25em 0.75em;
+    }
+  }
+
+a span{
+    display: none;
+    position:relative;
+    text-align: center;
+    background: rgba(255,255,255,.8);
+    max-width: 350px;    
+    text-decoration: none;
+    color: #000;
+  }
+
+  a:hover span{
+    display:flex;
+    align-items: center;
+  }
+
+@media screen and (max-width:600px){
+    a span{
+        display:flex;
+        align-items: center;
+    }
+}
+
+.hoverdiv span{
+    display: none;
+    position: relative;
+    text-align: center;
+    background: rgba(255,255,255,.8);
+    max-width: 350px;    
+    text-decoration: none;
+    color: #000;
+    transition: all 0.5s ease;
+    transition-delay: 0.5s;
+    visibility: hidden;
+  }
+
+  .hoverdiv:hover span {
+    display:flex;
+    align-items: center;
+    transition-delay: 0.5s;
+    opacity: 1;
+    visibility: visible;
+    position: static;
+    transform: translateY(5px);
+  }
+ 
+@media screen and (max-width:600px){
+    .hoverdiv span{
+        display:flex;
+        align-items: center;
+    }
+}
+
+@media screen and (max-width:600px){
+    .hoverdiv:hover span{
+        display:flex;
+        align-items: center;
+    }
+}
+
+.footerSocials{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.footerSocials li{
+    display: inline;
+}
+
+/* CSS for SubmitButton */
+.submitButton {
+    transition-duration: 0.4s;
+    background-color:#81c097;
+    border: 2px solid #81c097;
+    font-family: 'Oswald', sans-serif;
+    border-radius: 15px;
+    font-size: 1.5em;
+
+}
+@media screen and (max-width: 600px){
+    .submitButton{
+        font-size: 4vw;
+    }
+}
+  
+.submitButton:hover {
+    
+    background-color:white;
+    border-radius: 2px;
+    color: #81c097;
+    border-radius: 2px;
+  }
+  @media screen and (max-width: 600px){
+    .submitButton:hover{
+        font-size: 4vw;
+    }
+}
+/*spotlight page flex container*/
+
+.spotlightflex{
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+.spotlightflex img{
+    border-radius: 3%;
+}
+.spotlightflexitem{
+    max-width: 500px;
+    font-size: 1.5em;
+}
+@media screen and (max-width: 600px){
+    .spotlightflexitem{
+        font-size: 2vw;
+    }
+}
+
+@media screen and (max-width:600px ){
+    .spotlightflex{
+        max-width: 600px;
+    }
+   .spotlightflexitem {
+    max-width:40%;
+    align-items: center;
+   }
+}
+
+.logoimage{
+    margin:20px;
+}
+/*
+.mainbrandimage{
+    -webkit-filter: grayscale(100%); 
+    filter: grayscale(100%);
+}
+
+a:hover .mainbrandimage{
+    -webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */ /*
+    filter: grayscale(0%);
+} */
+
+.aboutpic{
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+    object-fit: cover;
+
+}
+
+@media screen and (max-width:650px) {
+    .aboutpic{
+        -webkit-filter: grayscale(0%); 
+        filter: grayscale(0%);
+
+    }
+}
+
+.aboutpic:hover{
+    -webkit-filter: grayscale(0%); 
+    filter: grayscale(0%);
+
+}
